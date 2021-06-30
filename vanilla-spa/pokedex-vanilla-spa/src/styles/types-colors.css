@@ -1,0 +1,45 @@
+.poison {
+    color: #8e44ad
+}
+.grass {
+    color: #2ecc71;
+}
+.psychic {
+    color: #e84393;
+}
+.ground {
+    color: #e77f67;
+}
+.rock {
+    color: #cc8e35;
+}
+.normal {
+    color: #ecf0f1;
+}
+.fire {
+    color: #e74c3c
+}
+.water {
+    color: #3498db;
+}
+.electric {
+    color: #f1c40f;
+}
+.ghost {
+    color: #6c5ce7
+}
+.dragon {
+    color: #706fd3;
+}
+.fairy {
+    color: #f78fb3;
+}
+.ice {
+    color: #74b9ff
+}
+.bug {
+    color: #1abc9c;
+}
+.steel {
+    color: #b2bec3;
+}
